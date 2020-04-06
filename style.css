@@ -20,7 +20,7 @@ body{
 img{
     width: 382px;
     height: 310px;
-    margin-top: 0;
+    margin-top: 13px;
     
 }
  .secondIcon{  
@@ -41,7 +41,7 @@ img{
 
 }
 .footer{
-    font-size: 13px;
+    font-size: 12px;
     margin-left: 10px;
     font-family: sans-serif;
 }
@@ -50,4 +50,23 @@ img{
     color: black;
     margin-left: 10px;
     margin-top: 10px;
+}
+ .tIcond{
+    position: relative;
+    margin-left: 330px;
+    font-size: 25px;
+} 
+.paragraph{
+    font-family: sans-serif;
+    font-size: 12px;
+    position: absolute;
+    left: 32px;
+    top: 0px;
+}
+.paragraphTwo{
+    font-family: sans-serif;
+    font-size: 12px;
+    position: absolute;
+    left: 32px;
+    top: 15px;
 }
