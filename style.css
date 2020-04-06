@@ -18,8 +18,8 @@ body{
     margin-right: 1px;
 }
 img{
-    width: 382px;
-    height: 310px;
+    width: 100%;
+    height: auto;
     margin-top: 13px;
     
 }
@@ -68,5 +68,5 @@ img{
     font-size: 11px;
     position: absolute;
     left: 32px;
-    top: 15px;
+    top: 17px;
 }
