@@ -1,11 +1,11 @@
 body{
     background-color: black;
 }
-.contend{
+.content{
     position: absolute;
     background-color: white;
     top:8%;
-    height: 81%;
+    height: 70%;
     width: 28%;
     left:36%;
     margin:auto;
